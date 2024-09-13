@@ -1,1 +1,1 @@
-# Scripts_corekeeper
+#악용금지
